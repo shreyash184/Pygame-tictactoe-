@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
-test=input("Enter type of grid")
+test=input("Enter type of grid you want")
 
 turn1 = 1;  # For first person turn1.
 turn = 1;  # For first person turn1.
